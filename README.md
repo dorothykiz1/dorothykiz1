@@ -1,8 +1,5 @@
 ### Hi there 👋 welcome,I'm Dorothy
 
-<!--
-**dorothykiz1/dorothykiz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Snap shot of my life:
 
 - 🔭 I’m currently working on getting my Google Data Analytics Course Certificate.
@@ -12,4 +9,4 @@ Snap shot of my life:
 - 📫 How to reach me: Email:kizdorothy@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can easily live with only Plants.
--->
+
