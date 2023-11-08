@@ -1,13 +1,10 @@
 <p align="center">
-  <a href="https://github.com/dorothykiz1">
-  <div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=dorothykiz1&style=flat-square&color=red" alt=""/>
-</div>
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Dorothy Kabarozi" /></a>
+  <a href="https://github.com/dorothykiz1">Dorothy Kabarozi
+    </a>
 </p>
 <p align="center">
   <a href="https://github.com/dorothykiz1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Experienced%20UI%2FUX%;10%2B%5years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Experienced%20Developer;;5years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <!-- Social icons section -->
