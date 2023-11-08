@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/dorothykiz1">
-    <img src="https://www.canva.com/design/DAFzkK-4GUY/Io2pyqh1gY7Xa9bkwrPvNw/view?utm_content=DAFzkK-4GUY&utm_campaign=designshare&utm_medium=link&utm_source=editor#1" alt="Dorothy Kabarozi" /></a>
+  <span class="OYPEnA" style="font-weight: 400; font-style: normal; color: rgb(255, 87, 87); text-decoration: none;">dk</span></a>
 </p>
 <p align="center">
   <a href="https://github.com/dorothykiz1/readme-typing-svg">
