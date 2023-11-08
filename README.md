@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/dorothykiz1">
-  <span class="OYPEnA" style="font-weight: 400; font-style: normal; color: rgb(255, 87, 87); text-decoration: none;">dk</span></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Dorothy Kabarozi &center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/dorothykiz1/readme-typing-svg">
