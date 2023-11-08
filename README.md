@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/dorothykiz1">Dorothy Kabarozi
-    </a>
+  <a href="https://github.com/dorothykiz1">
+    <img src="https://www.canva.com/design/DAFzkK-4GUY/Io2pyqh1gY7Xa9bkwrPvNw/view?utm_content=DAFzkK-4GUY&utm_campaign=designshare&utm_medium=link&utm_source=editor#1" alt="Dorothy Kabarozi" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/dorothykiz1/readme-typing-svg">
